@@ -20,7 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "test_arming = test_arming.test_arming:main"
+            "test_arming = test_scripts.test_arming:main"
         ],
     },
 )
