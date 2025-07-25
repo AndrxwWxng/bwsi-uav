@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'test_arming'
+package_name = 'test_scripts'
 
 setup(
     name=package_name,
