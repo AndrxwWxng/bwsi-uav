@@ -1,0 +1,102 @@
+# Blender 4.5.0 MTL File: 'Untitled.blend'
+# www.blender.org
+
+newmtl frame1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd /Users/azzytang/Downloads/frame1.jpg
+map_d /Users/azzytang/Downloads/frame1.jpg
+
+newmtl frame10
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd /Users/azzytang/Downloads/frame10.jpg
+map_d /Users/azzytang/Downloads/frame10.jpg
+
+newmtl frame2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd /Users/azzytang/Downloads/frame2.jpg
+map_d /Users/azzytang/Downloads/frame2.jpg
+
+newmtl frame3
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd /Users/azzytang/Downloads/frame3.jpg
+map_d /Users/azzytang/Downloads/frame3.jpg
+
+newmtl frame4
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd /Users/azzytang/Downloads/frame4.jpg
+map_d /Users/azzytang/Downloads/frame4.jpg
+
+newmtl frame5
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd /Users/azzytang/Downloads/frame5.jpg
+map_d /Users/azzytang/Downloads/frame5.jpg
+
+newmtl frame6
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd /Users/azzytang/Downloads/frame6.jpg
+map_d /Users/azzytang/Downloads/frame6.jpg
+
+newmtl frame7
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd /Users/azzytang/Downloads/frame7.jpg
+map_d /Users/azzytang/Downloads/frame7.jpg
+
+newmtl frame8
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd /Users/azzytang/Downloads/frame8.jpg
+map_d /Users/azzytang/Downloads/frame8.jpg
+
+newmtl frame9
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd /Users/azzytang/Downloads/frame9.jpg
+map_d /Users/azzytang/Downloads/frame9.jpg
