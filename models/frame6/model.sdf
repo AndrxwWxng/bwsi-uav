@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <model name="frame6">
+    <static>true</static>
+    <pose>5 0 0 1.57 0 0</pose>
+
+    <link name="link_0">
+      <visual name="visual">
+        <geometry>
+          <mesh>
+            <uri>meshes/model.obj</uri>
+          </mesh>
+        </geometry>
+       
+      </visual>
+      <collision name="collision_0">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>meshes/model.obj</uri>
+          </mesh>
+        </geometry>
+      </collision>
+    </link>
+  </model>
+</sdf>

@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+#export PYTHONPATH="$VIRTUAL_ENV/lib/python3.12/site‑packages:$PYTHONPATH"
+#export PYTHONPATH=$HOME/ros2_venv/lib/python3.10/site-packages:$HOME/ros2_ws/install/lib/python3.10/site-packages:$PYTHONPATH
 
 ###########
 # IMPORTS #
@@ -16,7 +18,7 @@ import sys
 #############
 # CONSTANTS #
 #############
-LOW = 0  # Lower image thresholding bound
+LOW = 200  # Lower image thresholding bound
 HI = 255   # Upper image thresholding bound
 LENGTH_THRESH = 0  # If the length of the largest contour is less than LENGTH_THRESH, we will not consider it a line
 KERNEL = np.ones((5, 5), np.uint8)
@@ -60,14 +62,8 @@ class LineDetector(Node):
 
         # If a line was detected, publish the parameterization to the topic '/line/param'
         if line is not None:
-            
             msg = Line()
-            msg.x  = float(line[0])
-            msg.y  = float(line[1])
-            msg.vx = float(line[2])
-            msg.vy = float(line[3])
-
-
+            msg.x, msg.y, msg.vx, msg.vy = float(line[0]), float(line[1]), float(line[2]), float(line[3])
             # Publish param msg
             self.param_pub.publish(msg)
 

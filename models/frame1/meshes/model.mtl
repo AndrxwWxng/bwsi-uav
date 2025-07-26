@@ -1,12 +1,12 @@
 # Blender 4.5.0 MTL File: 'Untitled.blend'
 # www.blender.org
 
-newmtl frame_0055
+newmtl model
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 illum 2
-map_Kd /Users/azzytang/Documents/bwsi-uav/frames/frame_0055.png
-map_d /Users/azzytang/Documents/bwsi-uav/frames/frame_0055.png
+map_Kd /home/azzytang/Documents/bwsi-uav/frames/frame_0055.png
+map_d /home/azzytang/Documents/bwsi-uav/frames/frame_0055.png

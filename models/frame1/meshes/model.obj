@@ -1,6 +1,6 @@
 # Blender 4.5.0
 # www.blender.org
-mtllib frame_0055.mtl
+mtllib model.mtl
 o frame_0055
 v -0.320838 0.003686 0.666667
 v -0.320838 0.003686 -0.666667
@@ -12,5 +12,5 @@ vt 1.000000 0.000000
 vt 1.000000 1.000000
 vt 0.000000 1.000000
 s 0
-usemtl frame_0055
+usemtl model
 f 1/1/1 2/2/1 4/3/1 3/4/1
